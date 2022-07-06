@@ -19,17 +19,24 @@ Entpacken Sie alle Datein und starten den X86 oder X64 Native Tools Command Prom
 <h3>Building cUrl</h3>
 <hr>
 
+```
+set RTLIBCFG=static
+```
+
 * change in cUrl Winbuild Directory<br>
 * VC=X (2019(16) = X) (2022(17) =X)
 
 <b> Compile static with OpenSSL </b>
-```
-nmake /f Makefile.vc mode=static WITH_SSL=static WITH_DEVEL=C:\OpenSSL-Win32 VC=X ENABLE_SSPI=no ENABLE_IDN=no ENABLE_WINSSL=no DEBUG=no MACHINE=x86 GEN_PDB=no ENABLE_IPV6=yes
+
 
 ```
+nmake /f Makefile.vc mode=static WITH_SSL=static WITH_DEVEL=C:\OpenSSL-Win32 VC=X ENABLE_SSPI=no ENABLE_IDN=no ENABLE_WINSSL=no DEBUG=no MACHINE=x86 GEN_PDB=no ENABLE_IPV6=yes
+```
+
+
 <b>Compile static without OpenSSL</b>
 ```
-nmake /f Makefile.vc mode=static VC=X ENABLE_SSPI=no ENABLE_IDN=no ENABLE_WINSSL=no DEBUG=no MACHINE=x86 GEN_PDB=no ENABLE_IPV6=yes
+nmake /f Makefile.vc mode=static vc=X debug=yes
 ```
 
 

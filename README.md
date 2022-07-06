@@ -9,6 +9,6 @@ Hier sollen alle mein C++ Librarys und zu Compilieren Beschreibungen hier rein..
 
 <h3>C++ Librarys Works Links</h3>
 
-*[OPENSSL_COMPILE](https://github.com/thunderbird2013/readme_tutorials/blob/main/openssl_compile.md)
+* [OPENSSL_COMPILE](https://github.com/thunderbird2013/readme_tutorials/blob/main/openssl_compile.md)
 
-*[CURL_COMPILE](https://github.com/thunderbird2013/readme_tutorials/blob/main/curl_compile.md)
+* [CURL_COMPILE](https://github.com/thunderbird2013/readme_tutorials/blob/main/curl_compile.md)

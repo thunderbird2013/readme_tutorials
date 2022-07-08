@@ -18,4 +18,4 @@ Hier sollen alle mein C++ Librarys und zu Compilieren Beschreibungen hier rein..
 
 <h3> Wichtige Links </h3>
 
-* [Wichtige Links](https://github.com/thunderbird2013/readme_tutorials/blob/main/openssl_compile.md)
+* [Wichtige Links](https://github.com/thunderbird2013/readme_tutorials/blob/main/links.md)

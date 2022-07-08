@@ -14,3 +14,8 @@ Hier sollen alle mein C++ Librarys und zu Compilieren Beschreibungen hier rein..
 * [OPENSSL_COMPILE](https://github.com/thunderbird2013/readme_tutorials/blob/main/openssl_compile.md)
 
 * [CURL_COMPILE](https://github.com/thunderbird2013/readme_tutorials/blob/main/curl_compile.md)
+
+
+<h3> Wichtige Links </h3>
+
+* [Wichtige Links](https://github.com/thunderbird2013/readme_tutorials/blob/main/openssl_compile.md)
